@@ -8,8 +8,13 @@
     - git checkout -b router-funcionalidad Luego sigue agregando los cambios con: git add, git commi -m ""
 6. Finalmente Sube a Vercel
     > Click en New Project
+
     > Selecciona tu repo ventas-reportes
+
     > Vercel detectará automáticamente:
-    > Framework: Vite
-    > Build command: npm run build
-    > Output directory: dist ✅
+
+        > Framework: Vite
+
+        > Build command: npm run build
+
+        > Output directory: dist ✅
