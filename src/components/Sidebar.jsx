@@ -1,6 +1,6 @@
 import { useState } from "react";
 import { NavLink } from "react-router-dom";
-import { links } from "../constants/Links";
+import { links } from "../constants/links";
 import { Menu, X, Flame } from "lucide-react";
 
 export function Sidebar() {
